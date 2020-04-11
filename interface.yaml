@@ -1,0 +1,4 @@
+name: host-port
+summary: Basic interface to communicate host and port.
+version: 1
+repo: https://github.com/omnivector-solutions/host-port
